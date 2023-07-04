@@ -6,6 +6,7 @@ using namespace std;
 void solve(){
     int n; cin>>n;  
     cout<<n<<endl;
+    cout<<"nehla is my village"<<endl;
 return;
 }
 
